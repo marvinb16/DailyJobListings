@@ -1,7 +1,7 @@
-#Job Listings Scraper
+# Job Listings Scraper
 This is a Python script that scrapes job listings from a specified website and prints out the job title and location. It can also detect new job listings by comparing the current job listings with the previous ones.
 
-##Installation
+## Installation
 1. Clone this repository.
 2. Install the required Python packages using pip:
 
